@@ -1,0 +1,19 @@
+header {
+    color: #fff;
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+   
+  header a {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 20px;
+    transition: linear 0.1s;
+  }
+  
+  header a:hover {
+    color: rgb(189, 189, 189);
+    text-decoration: none;
+  }
